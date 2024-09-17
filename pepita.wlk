@@ -20,6 +20,7 @@ object alpiste {
 	}
 }
 
+
 object manzana {
 	var madurez = 1
 	const base = 5
